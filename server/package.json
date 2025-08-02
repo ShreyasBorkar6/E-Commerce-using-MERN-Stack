@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ShreyasBorkar6/E-Commerce-using-MERN-Stack#readme",
+  "bugs": {
+    "url": "https://github.com/ShreyasBorkar6/E-Commerce-using-MERN-Stack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyasBorkar6/E-Commerce-using-MERN-Stack.git"
+  },
+  "license": "ISC",
+  "author": "Shreyas D Borkar",
+  "type": "modulejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run start"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
